@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Standard signed math utilities missing in the Solidity language.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"SpageroNFT721_flattened.sol": "SignedMath"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"SpageroNFT721_flattened.sol": {
+			"keccak256": "0x3758869f0a9ee4a62ddc9881bfd4412a5476854bcd1a472e6ce7ca5bab206448",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c9c2b76ae2e8b9b4fb4edf092e2c3faccc2de2918661d78b2cc7fc16e70527a1",
+				"dweb:/ipfs/QmaRvXidpzfFsfwYzVA6TSJ8XnS6PyAtfrVh7KuMbB8wGY"
+			]
+		}
+	},
+	"version": 1
+}
