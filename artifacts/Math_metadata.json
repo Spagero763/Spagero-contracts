@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Standard math utilities missing in the Solidity language.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"SpageroNFT1155_flattened.sol": "Math"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"SpageroNFT1155_flattened.sol": {
+			"keccak256": "0x1e6e5eb4d68807daf29853705e29354b0375690d847f62650d9afe266e8e16f7",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://4e39e0dae7128393bbc0fb6418cf38d90c943317c8c592f1cd709f8adc5e6bd2",
+				"dweb:/ipfs/QmUfKntjL22zoXVeBt6tQRjZM3iUEiPhdnkdp2Pq9poYtT"
+			]
+		}
+	},
+	"version": 1
+}
