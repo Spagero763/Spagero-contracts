@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "target",
+						"type": "address"
+					}
+				],
+				"name": "AddressEmptyCode",
+				"type": "error"
+			}
+		],
+		"devdoc": {
+			"details": "Collection of functions related to the address type",
+			"errors": {
+				"AddressEmptyCode(address)": [
+					{
+						"details": "There's no code at `target` (it is not a contract)."
+					}
+				]
+			},
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"SpageroPaymentSplitter_flattened.sol": "Address"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"SpageroPaymentSplitter_flattened.sol": {
+			"keccak256": "0xce5048e8468ddab55f86959daebd2da94465752e9676df4909d5c0161a40fb27",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7fa619af1dc808014b3519a0035a9f507ddc17a6967e3edf0f0bd1bc250ce899",
+				"dweb:/ipfs/QmUfFhyoBzQSZhS37Fx36ATCSptovMUD9pkhRuYwFFD8PB"
+			]
+		}
+	},
+	"version": 1
+}
